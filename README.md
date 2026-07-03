@@ -1,0 +1,2 @@
+# india-courts-data-11
+Chunked SQLite/FTS5 **full-text** index of Supreme Court of India judgments (shard scft2), built from CC-BY-4.0 open data (AWS `indian-supreme-court-judgments`). Judgment text is not copyrightable (Copyright Act 1957 s.52(1)(q)(iv)). Served as same-origin HTTP byte-range requests for the [Indian Courts judgment search](https://github.com/darshjme/india-supreme-court-search).
